@@ -1,36 +1,40 @@
 # psocietyyy
 
-Welcome to my GitHub profile. I'm **psocietyyy**, a bug hunter with a growing interest in the world of cybersecurity and coding. As an INTJ, I approach challenges with logic, strategic thinking, and a strong desire to improve systems and processes. I'm constantly learning, analyzing, and applying my skills to find vulnerabilities and enhance security.
+Welcome to my GitHub profile! I'm **psocietyyy**, an AI Engineer with a strong passion for machine learning, deep learning, and building intelligent systems. As an **INTJ**, I approach problem-solving with logic, strategic thinking, and an analytical mindset. I'm constantly learning and refining my skills to create innovative AI solutions.
 
 ## About Me
 
-- **Full Name**: psocietyyy
-- **Role**: Bug Hunter, Beginner in Cybersecurity
-- **Passion**: Coding, Security, Problem-Solving
-- **Learning Focus**: Software Security, Vulnerability Research
-- **Approach**: Thoughtful, Analytical, Detail-Oriented
+- **Full Name**: psocietyyy  
+- **Role**: AI Engineer, Researcher  
+- **Passion**: Machine Learning, Data Science, AI Development  
+- **Learning Focus**: Deep Learning, NLP, Computer Vision  
+- **Approach**: Analytical, Data-Driven, Innovative  
 
-I enjoy diving deep into code, understanding how things work, and discovering hidden flaws. I believe in continuous improvement and in contributing to the greater good of the digital security community.
+I enjoy working on AI models, optimizing algorithms, and exploring how artificial intelligence can solve real-world problems efficiently. My goal is to push the boundaries of AI and contribute to open-source projects.
 
 ## What I Do
 
-- Actively search for vulnerabilities in applications and systems
-- Focus on improving my coding and security research skills
-- Contribute to open-source projects related to cybersecurity
-- Analyze and document security flaws and fixes
+- Develop and train AI/ML models  
+- Research deep learning architectures and applications  
+- Work with large datasets for AI-driven insights  
+- Optimize models for better performance and efficiency  
+- Contribute to AI open-source projects and research papers  
 
 ## Skills & Technologies
 
-- **Languages**: Python, Java, C++, Bash
-- **Tools**: Burp Suite, Nmap, Linux, Metasploit
-- **Frameworks**: Django, Flask, Node.js
-- **Other**: Git, Docker, Virtualization, Cryptography
+- **Languages**: Python, R, C++, SQL  
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn  
+- **Deep Learning**: CNN, RNN, Transformers, GANs  
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools**: Jupyter Notebook, Docker, Git, Kubernetes  
+- **Cloud & Deployment**: AWS, GCP, Flask, FastAPI  
 
 ## Let's Connect
 
-If you're interested in discussing security research, coding practices, or just want to chat about the latest in tech, feel free to reach out. I’m always open to learning from others and sharing insights.
-- [psocietyyy@gmail.com](#)
+If you're interested in AI research, ML engineering, or just want to discuss the latest advancements in AI, feel free to reach out. I'm always open to collaborations and knowledge sharing.  
+
+📧 Email: [psocietyyy@gmail.com](#)  
 
 ---
 
-Stay focused. Stay curious. And always question the systems you're working with.
+Stay curious. Keep innovating. The future of AI is limitless. 🚀  
