@@ -1,6 +1,6 @@
 # psocietyyy
 
-Welcome to my GitHub profile! I'm **psocietyyy**, an AI Engineer with a strong passion for machine learning, deep learning, and building intelligent systems. As an **INTJ**, I approach problem-solving with logic, strategic thinking, and an analytical mindset. I'm constantly learning and refining my skills to create innovative AI solutions.
+Welcome to my GitHub profile! I'm **psocietyyy**, an AI Engineer with a strong passion for machine learning, deep learning, and building intelligent systems. I approach problem-solving with logic, strategic thinking, and an analytical mindset. I'm constantly learning and refining my skills to create innovative AI solutions.
 
 ## About Me
 
