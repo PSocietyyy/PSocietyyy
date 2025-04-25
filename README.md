@@ -1,10 +1,10 @@
 # psocietyyy
 
-Welcome to my GitHub profile! I'm **psocietyyy**, an AI Engineer with a strong passion for machine learning, deep learning, and building intelligent systems. I approach problem-solving with logic, strategic thinking, and an analytical mindset. I'm constantly learning and refining my skills to create innovative AI solutions.
+Welcome to my GitHub profile! I'm **Ferdiansyah**, an AI Engineer with a strong passion for machine learning, deep learning, and building intelligent systems. I approach problem-solving with logic, strategic thinking, and an analytical mindset. I'm constantly learning and refining my skills to create innovative AI solutions.
 
 ## About Me
 
-- **Full Name**: psocietyyy  
+- **Full Name**: Ferdiansyah Pratama  
 - **Role**: AI Engineer, Researcher  
 - **Passion**: Machine Learning, Data Science, AI Development  
 - **Learning Focus**: Deep Learning, NLP, Computer Vision  
