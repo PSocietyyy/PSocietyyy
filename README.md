@@ -36,5 +36,5 @@ If you're interested in AI research, ML engineering, or just want to discuss the
 📧 Email: [psocietyyy@gmail.com](#)  
 
 ---
-
-Stay curious. Keep innovating. The future of AI is limitless. 🚀  
+<img src="https://github-readme-stats.vercel.app/api?username=psocietyyy&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=psocietyyy&theme=vue-dark" alt="GitHub Streak" />
