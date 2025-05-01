@@ -1,24 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ferdiansyah Pratama</h1>
-<h3 align="center">AI Engineer | Backend Developer | Open-Source Contributor</h3>
+<h3 align="center">AI Engineer | Backend Developer</h3>
 
 <p align="center">
-I love working with AI models, optimizing algorithms, and discovering how artificial intelligence can create impactful real-world solutions.  
+<!-- I love working with AI models, optimizing algorithms, and discovering how artificial intelligence can create impactful real-world solutions.  
 I'm currently diving deeper into backend development and machine learning, while actively contributing to open-source projects.  
 I also enjoy building robust and scalable web applications using Laravel, combining clean architecture with modern backend practices.
-
+ -->
 </p>
 
 ---
 
-### 🧠 Currently Learning
+### Currently Learning
 - Backend Development (Laravel, Spring Boot)
 - Artificial Intelligence & Machine Learning
-- Cloud Infrastructure (Docker, GCP)
-- RESTful APIs & Microservices Architecture
-
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,php,js,ts,vue,laravel,spring,mysql,postgres,git,linux,docker,bash" />
   <br>
@@ -29,7 +26,7 @@ I also enjoy building robust and scalable web applications using Laravel, combin
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="left">
   <a href="https://instagram.com/ferdiansyah_p69" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
