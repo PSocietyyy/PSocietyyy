@@ -17,10 +17,13 @@ I also enjoy building robust and scalable web applications using Laravel, combin
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit-learn,pandas,seaborn" />
+<h1>Main Skill</h1>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
   <br>
+ <h1>Primary Skill</h1>
   <img src="https://skillicons.dev/icons?i=php,js,vue,laravel,mysql,html,css,tailwind,bootstrap,express," />
   <br>
+ <h1>Optional Skill</h1>
   <img src="https://skillicons.dev/icons?i=git,linux,docker,bash" />
 </p>
 
