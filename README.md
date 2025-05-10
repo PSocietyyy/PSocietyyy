@@ -17,11 +17,11 @@ I also enjoy building robust and scalable web applications using Laravel, combin
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,vue,laravel,mysql,git,linux,docker,bash" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit-learn,pandas,seaborn" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,express" />
+  <img src="https://skillicons.dev/icons?i=php,js,vue,laravel,mysql,html,css,tailwind,bootstrap,express," />
   <br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikit-learn,pandas,seaborn" />
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,bash" />
 </p>
 
 ---
