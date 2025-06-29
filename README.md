@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferdiansyah Pratama</h1>
-<h3 align="center">AI Engineer | Backend Developer</h3>
+<h3 align="center">FullStack Web Developer | AI Engineer</h3>
 
 <p align="center">
 <!-- I love working with AI models, optimizing algorithms, and discovering how artificial intelligence can create impactful real-world solutions.  
@@ -11,20 +11,21 @@ I also enjoy building robust and scalable web applications using Laravel, combin
 ---
 
 ### Currently Learning
-- Backend Development (Laravel)
+- FullStack Development (Laravel and React)
 - Artificial Intelligence & Machine Learning
 ---
 
 ### Tech Stack
 <p align="center">
 <h1>Main Skill</h1>
+<img src="https://skillicons.dev/icons?i=php,js,react,laravel,mysql,tailwind" />
+  
+  <br>
+ <h1>Learning Skill</h1>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
   <br>
- <h1>Primary Skill</h1>
-  <img src="https://skillicons.dev/icons?i=php,js,react,laravel,mysql,html,css,tailwind" />
-  <br>
  <h1>Optional Skill</h1>
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,bash" />
+  <img src="https://skillicons.dev/icons?i=git,linux,bash" />
 </p>
 
 ---
