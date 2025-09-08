@@ -9,15 +9,37 @@
   <img src="https://komarev.com/ghpvc/?username=psocietyyy&label=Profile%20Views&color=8B5CF6&style=flat" />
   <img src="https://img.shields.io/badge/Laravel-Livewire%20%7C%20Tailwind-red?style=flat-square&logo=laravel" />
   <img src="https://img.shields.io/badge/Learning-AI%20%26%20ML-blueviolet?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Role-Fullstack%20Dev%20%7C%20AI-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Golang-00ADD8?style=flat-square&logo=go" />
+  <img src="https://img.shields.io/badge/Role-Fullstack%20Dev%20%7C%20AI-indigo?style=flat-square" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 > I'm a Computer Science Education student passionate about building scalable web applications using Laravel, Livewire, and TailwindCSS.  
-> I'm currently expanding my expertise into Artificial Intelligence and Machine Learning using Python and modern data science tools.  
-> I value clean architecture, reusable components, and robust backend logic.
+> I'm currently expanding my expertise into **Golang for backend development** and **Artificial Intelligence / Machine Learning** with Python.  
+> I value clean architecture, reusable components, and robust backend logic.  
+> 🚀 Open for **freelance projects** and collaboration in web development & AI.
+
+---
+
+### 🚀 Available for Freelance Projects
+I’m currently open to **freelance opportunities** in:
+- 🛒 E-Commerce & Marketplace Development  
+- 🏫 School Management & Custom Web Apps  
+
+📧 Let’s work together: **psocietyyy@gmail.com**  
+
+
+---
+
+### 💼 Freelance & Projects
+I’ve worked on several client projects as a freelance web developer, including:  
+- 🛒 **E-Commerce Custom Product** – dynamic product customization & checkout system  
+- 🏬 **Marketplace Website** – multi-vendor platform with product listing & transaction flow  
+- 🏫 **PPDB Sekolah + Online Exam System** – school admission web app with integrated test/quiz feature  
+
+I’m open to new freelance opportunities, especially in **web apps, custom business systems, and AI-powered solutions**.  
 
 ---
 
@@ -25,7 +47,7 @@
 
 #### ⚙️ Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,golang,tailwind,js,ts,react,mysql" />
 </p>
 
 #### 📚 Learning AI/ML
@@ -35,7 +57,7 @@
 
 #### 🔧 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,bash,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,linux,ubuntu,docker,bash,vscode,figma" />
 </p>
 
 ---
