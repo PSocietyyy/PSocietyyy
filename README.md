@@ -105,13 +105,26 @@ I’m open to new freelance opportunities, especially in **web apps, custom busi
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psocietyyy&show_icons=true&theme=tokyonight&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psocietyyy&layout=compact&theme=tokyonight" />
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=psocietyyy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=psocietyyy&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psocietyyy&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psocietyyy&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
 
 ---
 
